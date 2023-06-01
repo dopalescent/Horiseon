@@ -14,19 +14,11 @@ At time of publication, the project can be found deployed at https://dopalescent
 
 The following screenshot previews the deployed project:
 
-!(
-
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot](./assets/images/horiseon_screenshot.html.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Penn LPS Boot Camp program for education and resources
+MDN Web Docs for CSS Property references
+Youssuf from AskBCS for information on CSS display property and screen reader interaction.
+EdX and The Full-Stack Blog for their Professional README Guide article.
